@@ -1,6 +1,6 @@
 {
   "name": "cocktail-npm",
-  "version": "0.0.1",
+  "version": "0.5.0",
   "main": "src/index.js",
   "scripts": {
     "test": "./node_modules/grunt-cli/bin/grunt test"
