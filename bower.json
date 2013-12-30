@@ -1,0 +1,7 @@
+{
+  "name": "cocktail-npm",
+  "version": "0.0.1",
+  "dependencies": {
+    "cocktail": "~0.5.0"
+  }
+}
